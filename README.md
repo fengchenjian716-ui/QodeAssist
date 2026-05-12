@@ -1,3 +1,8 @@
+> **Note:** This is a customized fork of QodeAssist, specifically optimized for CAD modeling, Open CASCADE C++ refactoring, and Automated Fiber Placement (AFP) workflows.
+> 
+> 本项目为 QodeAssist 的深度定制分支，核心工作流专为工业级制造软件开发设计。主要用于解决基于 C++/Qt 操作底层 Open CASCADE 内核提取三维模型（STEP/IGES）几何拓扑时，复杂的指针内存排查、自动代码重构以及中文文件路径字符集转换问题。
+
+---
 # QodeAssist — AI coding assistant for Qt Creator
 
 [![Build plugin](https://github.com/Palm1r/QodeAssist/actions/workflows/build_cmake.yml/badge.svg?branch=main)](https://github.com/Palm1r/QodeAssist/actions/workflows/build_cmake.yml)
